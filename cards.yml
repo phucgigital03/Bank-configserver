@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 cards:
-  message: "Welcome to Phuc Nguyen cards related local APIs "
+  message: "Welcome to Phuc Nguyen cards related local APIs Test change"
   contactDetails:
     name: "Dragos Lech - Developer"
     email: "dragos@eazybank.com"
